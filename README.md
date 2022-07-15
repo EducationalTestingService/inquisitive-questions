@@ -1,7 +1,13 @@
 # inquisitive-questions
 Repository for research on Inquisitive Question Generation
 ## Introduction
-This repository contains data and code used in our reaearch on inquisitive question generation. The original dataset of inquisitive questions are collected from Ko et al. (2020). In our research we added annotations of question types. For more information please see the following.
+This repository contains data and code used in the paper [“What makes a question inquisitive?” A Study on Type-Controlled Inquisitive Question Generation](https://aclanthology.org/2022.starsem-1.22.pdf). The original dataset of inquisitive questions are collected from Ko et al. (2020). In our research we added annotations of question types. 
+### Data description
+
+
+
+
+For more information please see the following.
 ## Citation
 ```
 @inproceedings{gao-etal-2022-makes,
