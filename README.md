@@ -4,8 +4,8 @@ Repository for research on Inquisitive Question Generation
 This repository contains data and code used in the paper [“What makes a question inquisitive?” A Study on Type-Controlled Inquisitive Question Generation](https://aclanthology.org/2022.starsem-1.22.pdf). The original dataset of inquisitive questions are collected from Ko et al. (2020). In our research we added annotations of question types. 
 ### Data description
 Inside the *data* directory,
--Item The question_types folder contains expert annotations for question types (e.g., background, elaboration, causal, etc.).
--Item The annotated_questions folder contains ``silver labels'' of all the questions used. 
+- The question_types folder contains expert annotations for question types (e.g., background, elaboration, causal, etc.).
+- The annotated_questions folder contains ``silver labels'' of all the questions used. 
 We trained a RoBERTa model on the expert annotations to create the silver labels. For more information, please see the following.
 ## Citation
 ```
